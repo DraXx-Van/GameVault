@@ -1,0 +1,17 @@
+{
+  "name": "project-gamevault",
+  "version": "1.0.0",
+  "description": "GameVault",
+  "license": "ISC",
+  "author": "Dakshat-Jain",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "uuid": "^13.0.0"
+  }
+}
